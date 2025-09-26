@@ -173,8 +173,8 @@ a.btn {
 }
 
 .origin-img {
-  width: 50%;
-  height: 30%;
+  width: 40%;
+  height: 20%;
   margin: 0 auto;
   padding-bottom: 1rem;
   display: block;
@@ -316,7 +316,16 @@ footer p {
   }
 
   .origin p{
-    max-width: 70ch;
+    max-width: 60ch;
+  }
+
+  
+
+  .flex-items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
   }
 
   footer ul {
