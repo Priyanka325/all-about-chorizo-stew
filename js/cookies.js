@@ -37,3 +37,11 @@ window.onload = () => {
     checkCookie();
   }, 2000);
 };
+
+
+  const toggleBtn = document.querySelector('.toggle-btn');
+  const nav = document.querySelector('.nav');
+
+  toggleBtn.addEventListener('click', function() {
+    nav.classList.toggle('active');
+  });
