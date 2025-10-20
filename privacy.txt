@@ -121,6 +121,56 @@ Personal Data processed:Trackers +1
 
 Google Fonts is a typeface visualization service provided by Google LLC that allows this Application to incorporate content of this kind on its pages.
 
+
+Meta Platforms, Inc.
+Facebook account access
+Company:Meta Platforms, Inc.
+
+Place of processing:United States
+
+Permissions asked:device information +3
+
+This service allows this Application to connect with the User's account on the Facebook social network, provided by Meta Platforms, Inc.
+
+Permissions asked:
+device information
+Email
+Trackers
+Usage Data
+Service provided by:
+Meta Platforms, Inc. (United States) – Privacy Policy – Opt out
+
+Instagram Widget
+Company:Meta Platforms, Inc.
+
+Place of processing:United States
+
+Personal Data processed:Trackers +1
+
+Instagram is an image visualization service provided by Meta Platforms, Inc. that allows this Application to incorporate content of this kind on its pages.
+
+Personal Data processed:
+Trackers
+Usage Data
+Service provided by:
+Meta Platforms, Inc. (United States) – Privacy Policy
+
+
+GitHub Pages
+Company:GitHub Inc.
+
+Place of processing:United States
+
+Personal Data processed:various types of Data as specified in the privacy policy of the service
+
+GitHub Pages is a hosting service provided by GitHub, Inc.
+
+Personal Data processed:
+various types of Data as specified in the privacy policy of the service
+Service provided by:
+GitHub Inc. (United States) – Privacy Policy
+
+
 Personal Data processed:
 Trackers
 Usage Data
