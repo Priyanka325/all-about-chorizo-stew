@@ -150,9 +150,10 @@ a.btn {
    width: 100px;
    padding: 0.5rem;
    text-decoration: none;
-   
+   text-align: center;
    color: #2c3e50;
    background-color: #f39c12;
+   margin: 1rem 0;
  }
 
 
@@ -216,6 +217,15 @@ a.btn {
   line-height: 1.5;
 }
 
+.notes {
+  margin: 1rem auto;
+}
+.img-recipe {
+  border-radius: 10px;
+  max-width: 70%;
+  margin: 0 auto;
+  
+}
 /* Footer */
 footer {
   background-color: #2c3e50;
