@@ -131,6 +131,12 @@ main {
   
 }
 
+aside.leaderboard {
+  margin: 2rem;
+  display: flex;
+ justify-content: center;
+}
+
 .content h2 {
   font-size: 1.75rem;
   /* margin-bottom: 1em; */
@@ -348,13 +354,12 @@ footer p {
 
 
 
-
 /* -- Code for the Cookie Compliance popover window -- */
 
 #cookiePopup {
-  background-color:#2c3e50;
+  background-color: #2c3e50;
   position: absolute;
-  left: 15%;
+  left: 5%;
   bottom: 0;
   font-size: 14px;
   width: 90%;
@@ -371,7 +376,8 @@ footer p {
 #cookiePopup p {
   text-align: center;
   margin: 1.4em 0;
-  color: #ffffff;
+   color: #ffffff;
+   max-width: unset;
 }
 #cookiePopup button {
   background-color: #6859fe;
@@ -383,6 +389,7 @@ footer p {
   position: relative;
   margin: auto;
   border-radius: 5px;
+  cursor: pointer;
 }
 #cookiePopup a {
   color: #6859fe;
@@ -394,7 +401,7 @@ footer p {
 }
 .show {
   visibility: visible;
- max-width: 50%;
  
 }
 
+/* -- End of Code for the Cookie Compliance popover window -- */
