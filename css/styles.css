@@ -38,9 +38,9 @@ p, li {
   margin-bottom: 1rem;
 }
 
-p:not(footer p) {
+/* p:not(footer p) {
   max-width: 80ch;
-}
+} */
 header {
 		height: 40vh;
 	}
