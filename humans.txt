@@ -1,20 +1,14 @@
-
-                            
+                          
 /* TEAM */
-
                             
-Your title: Your name.
+All About Chorizo Stew: Priyanka Silambarasan.
 
                             
 Site: https://priyanka325.github.io/all-about-chorizo-stew/
 Site Contact: allaboutchorizostew@gmail.com
-Location: Edmonton, Alberta, Canada
-                            
-          
+Location: Edmonton, Alberta, Canada      
                  
-                        [...]
-						
-
+                        [...]			
 							
 /* THANKS */
 
@@ -22,19 +16,13 @@ Location: Edmonton, Alberta, Canada
 Template: Markis Day
 Privacy Generator: Iubenda
 Stock Photography: Pexels 
-Graphics and ads: Canva
+Graphics and ads: Canva, Figma
 AI and Detection: ChatGPT and Grammarly AI detector
 Productivity Software: MS Office
-SEO Analytics: Google Analytics, Google Search Console
-SEO Testing :
-Mail Handling: Mail Chimp
-
-						
-                 
-                        [...]
-                        
-
-                            
+SEO Analytics: Google Analytics, Google Search Console, SEO optimer
+SEO Testing :Lighthouse
+Mail Handling: Mail Chimp                
+                        [...]                            
 /* SITE */
 
                             
@@ -44,6 +32,16 @@ Standards: HTML5, CSS3, JavaScript, Json
                           
 Components: CSS Reset (MyerWeb), jQuery, Google Maps for citations, etc.
 
-social Media: Facebook, Instagram, Reddit, Pinterest
+social Media: Facebook, Instagram, Reddit, Pinterest, yandex Webmaster
                             
 Software: VS Code, Notepad
+
+Tools:Netlify, Github Pages
+
+/* Hardware & Browsers */
+
+Windows 10 Laptop / Desktop
+
+Search Engines: Google Chrome, Firefox (testing), xml-sitemaps
+
+Android / iPhone for mobile testing
